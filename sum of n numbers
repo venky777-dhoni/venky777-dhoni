@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-int n;
+int n,sum;
 printf("enter n value");
 scanf("%d",&n);
 sum=n*(n+1)/2;
